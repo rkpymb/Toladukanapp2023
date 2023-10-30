@@ -5,7 +5,7 @@ import { useRoute } from '@react-navigation/native';
 function WebHome({ navigation }) {
     const route = useRoute();
     const [canGoBack, setCanGoBack] = useState(false);
-    const [MainURL, setMainURL] = useState('https://flairmyevent.com/');
+    const [MainURL, setMainURL] = useState('https://toladukan.com');
 
     const handleNavigationStateChange = (navState) => {
         setCanGoBack(navState.canGoBack);
