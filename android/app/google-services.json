@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49878961047",
+    "project_id": "flairmyevent-9a81a",
+    "storage_bucket": "flairmyevent-9a81a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49878961047:android:f2e2a1b88200ac9d7192d2",
+        "android_client_info": {
+          "package_name": "com.flairmyeventapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB67s11noTiPrzck1nCmhIt1bYiTvT9NO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

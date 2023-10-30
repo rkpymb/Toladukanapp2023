@@ -1,0 +1,11 @@
+npx uri-scheme open "https://flairmyevent.com/" --android
+
+npx uri-scheme open "mychat://chat/jane" --ios
+
+npx react-native run-android
+
+adb shell pm set-app-links --package com.flairmyeventapp  0 all
+
+adb shell pm verify-app-links --re-verify com.flairmyeventapp 
+
+adb shell pm get-app-links com.flairmyeventapp 
