@@ -74,9 +74,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.flairmyeventapp"
+    namespace "com.toladukan"
     defaultConfig {
-        applicationId "com.flairmyeventapp"
+        applicationId "com.toladukan"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
