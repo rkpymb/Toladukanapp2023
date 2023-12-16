@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "49878961047",
-    "project_id": "flairmyevent-9a81a",
-    "storage_bucket": "flairmyevent-9a81a.appspot.com"
+    "project_number": "274598237175",
+    "project_id": "toladukan",
+    "storage_bucket": "toladukan.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:49878961047:android:f2e2a1b88200ac9d7192d2",
+        "mobilesdk_app_id": "1:274598237175:android:1382a63c2c8b5014d914f2",
         "android_client_info": {
-          "package_name": "com.flairmyeventapp"
+          "package_name": "com.toladukan"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB67s11noTiPrzck1nCmhIt1bYiTvT9NO0"
+          "current_key": "AIzaSyBSbqEUHkHIO9mqElZoxBoI4DbjRshYqmg"
         }
       ],
       "services": {

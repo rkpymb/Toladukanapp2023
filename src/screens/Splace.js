@@ -26,7 +26,7 @@ const Splace = (props) => {
             />
             <View style={{ height: '100%', width: '100%', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', backgroundColor: 'white' }}>
                 <View>
-                    <Image source={require('../../assets/img/fmelogo.png')} style={styles.tinyLogo} />
+                    <Image source={require('../../assets/img/logotola.png')} style={styles.tinyLogo} />
                 </View>
             </View>
 

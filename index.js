@@ -10,7 +10,7 @@ import { LogLevel, OneSignal } from 'react-native-onesignal';
 OneSignal.Debug.setLogLevel(LogLevel.Verbose);
 
 // OneSignal Initialization
-OneSignal.initialize("62f9a0cd-bfc1-47a5-89aa-ee872dc80882");
+OneSignal.initialize("c3a91cfa-556e-4d6a-bac2-2b2c9dffbc79");
 
 // requestPermission will show the native iOS or Android notification permission prompt.
 // We recommend removing the following code and instead using an In-App Message to prompt for notification permission
