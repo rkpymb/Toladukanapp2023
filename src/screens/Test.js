@@ -7,7 +7,7 @@ const VendorScreen = ({ route }) => {
 
   return (
     <Text>
-      Welcome to the Vendor Screen,
+      Welcome to the Vendor Screen,w
     </Text>
   );
 };
