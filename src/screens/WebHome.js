@@ -17,9 +17,9 @@ function WebHome({ navigation }) {
         const backAction = () => {
             if (canGoBack) {
                 webViewRef.current.goBack();
-                return true; // Prevent the default back action
+                return true; 
             }
-            return false; // Allow the default back action
+            return false; 
         };
       
         BackHandler.addEventListener('hardwareBackPress', backAction);
